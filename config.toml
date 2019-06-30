@@ -1,0 +1,16 @@
+baseURL = "https://eftim.page/"
+languageCode = "en-us"
+title = "Escape From The Inverted Mountain"
+canonifyURLs = true
+enableEmoji = true
+
+theme = "pristine"
+
+[params]
+    portrait = "img/me-2013.jpg"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+

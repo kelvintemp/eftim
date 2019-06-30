@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Escape From The Inverted Mountain</title>
+    <link>https://eftim.page/posts/</link>
+    <description>Recent content in Posts on Escape From The Inverted Mountain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Jun 2018 03:00:53 +0600</lastBuildDate>
+    
+	<atom:link href="https://eftim.page/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>J Doe</title>
+      <link>https://eftim.page/posts/a_post/</link>
+      <pubDate>Wed, 06 Jun 2018 03:00:53 +0600</pubDate>
+      
+      <guid>https://eftim.page/posts/a_post/</guid>
+      <description>That video is a grim reminder of law enforcement’s ridiculous over-response to the very rumor of an encounter with a Black person.
+Story time:
+In 1998, while I was living in San Francisco, I was pulled over while walking on the corner of 17th and Valencia by two cops, a (white) man and a (possibly Latina) woman. I was stopped, questioned, patted down, and detained (they didn’t cuff me, and I got to sit) because the male cop said I “resembled a suspect they’d been looking for” (read: Black and male with a head of hair).</description>
+    </item>
+    
+    <item>
+      <title>Jz</title>
+      <link>https://eftim.page/posts/another_post/</link>
+      <pubDate>Wed, 06 Jun 2018 03:00:53 +0600</pubDate>
+      
+      <guid>https://eftim.page/posts/another_post/</guid>
+      <description>The crime? Murder.</description>
+    </item>
+    
+  </channel>
+</rss>
