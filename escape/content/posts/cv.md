@@ -1,7 +1,7 @@
 ---
 title: "CV"
 date: 2019-06-29T18:57:26-07:00
-draft: true
+draft: false
 ---
 
 ﻿
